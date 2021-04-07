@@ -11,6 +11,7 @@
 		41C8FF5B2617529600F19F3E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C8FF5A2617529600F19F3E /* ContentView.swift */; };
 		41C8FF5D2617529600F19F3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41C8FF5C2617529600F19F3E /* Assets.xcassets */; };
 		41C8FF602617529600F19F3E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41C8FF5F2617529600F19F3E /* Preview Assets.xcassets */; };
+		41C8FF69261757E700F19F3E /* Exceptionless.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C8FF68261757E700F19F3E /* Exceptionless.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		41C8FF5C2617529600F19F3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41C8FF5F2617529600F19F3E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		41C8FF612617529600F19F3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41C8FF68261757E700F19F3E /* Exceptionless.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exceptionless.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				41C8FF582617529600F19F3E /* Exceptionless_EventsApp.swift */,
 				41C8FF5A2617529600F19F3E /* ContentView.swift */,
+				41C8FF68261757E700F19F3E /* Exceptionless.swift */,
 				41C8FF5C2617529600F19F3E /* Assets.xcassets */,
 				41C8FF612617529600F19F3E /* Info.plist */,
 				41C8FF5E2617529600F19F3E /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41C8FF69261757E700F19F3E /* Exceptionless.swift in Sources */,
 				41C8FF5B2617529600F19F3E /* ContentView.swift in Sources */,
 				41C8FF592617529600F19F3E /* Exceptionless_EventsApp.swift in Sources */,
 			);
